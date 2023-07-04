@@ -1,0 +1,2 @@
+project     = "kekkepy"
+environment = "dev"
